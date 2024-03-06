@@ -1,0 +1,14 @@
+Grupo 06
+========
+
+Participantes:
+-----
+Ana Victória Saddi Boen
+Brayan Roberto
+Gustavo Barbosa
+João Victor Pugles Sabino
+José Leandro da Silva
+Karolina Meira
+
+Relatório:
+O motivo da escolha dos atributos nas tabelas foi para identificar o produto, categoria e usuário da melhor forma dentro do banco de dados. Os atributos foram pensados de forma que pudessem ser interligados entre as tabelas e possuem nomes descritivos para ajudar a identificar a finalidade de cada um.
